@@ -1,11 +1,10 @@
-body{
+.main{
     padding-left: 50px;
 }
 img{
     width: 20px;
-    height: 20px;
 }
-.concat-me a i{
+.concat a i{
     font-size: 20px;
 }
 .icon a{
